@@ -27,9 +27,9 @@ Wednesday, 31st: 11,019 trips
 Casual Member: 204,870
 
 ### Average Trip Duration
-*Overall: 14 minutes
-*To Union Station: 16 minutes
-*From Union Statin: 12 minutes
+* Overall: 14 minutes
+* To Union Station: 16 minutes
+* From Union Station: 12 minutes
 
 ### Union Station Trips
 - Trips From Union Station: 1,899
